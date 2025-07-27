@@ -24,23 +24,25 @@ This is a simple web-based **Rock-Paper-Scissors** game built using **HTML**, **
 ```project-folder/
 ├── index.html # The main HTML file
 ├── style.css # Styling for the game
-└── script.js # Game logic written in JavaScript```
+└── script.js # Game logic written in JavaScript
+```
+
 
 
 
 ## 🧠 Game Rules
 
--Rock beats Scissors
--Paper beats Rock
--Scissors beats Paper
--If both user and computer pick the same, it's a draw
+- Rock beats Scissors
+- Paper beats Rock
+- Scissors beats Paper
+- If both user and computer pick the same, it's a draw
 
 ## 📌 Future Improvements
 
-Add sound effects
-Improve animations and styling
-Add scoreboard reset button
-Make the game mobile responsive
+- Add sound effects
+- Improve animations and styling
+- Add scoreboard reset button
+- Make the game mobile responsive
 
 ## 🙌 Acknowledgments
 
