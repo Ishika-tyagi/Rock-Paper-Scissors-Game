@@ -21,11 +21,12 @@ This is a simple web-based **Rock-Paper-Scissors** game built using **HTML**, **
 
 
 ## 📁 Project Structure
-
-'''project-folder/
+```project-folder/
 ├── index.html # The main HTML file
 ├── style.css # Styling for the game
-└── script.js # Game logic written in JavaScript'''
+└── script.js # Game logic written in JavaScript```
+
+
 
 ## 🧠 Game Rules
 
